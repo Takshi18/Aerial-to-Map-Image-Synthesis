@@ -13,13 +13,10 @@ This repository contains the code for a Pix2Pix Generative Adversarial Network (
 
 1. [Introduction](#satellite-image-to-map-conversion-using-pix2pix-gan)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Dataset](#dataset)
-5. [Training](#training)
-6. [Evaluation](#evaluation)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+3. [Dataset](#dataset)
+4. [Results](#results)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Installation
 
@@ -27,12 +24,12 @@ This repository contains the code for a Pix2Pix Generative Adversarial Network (
 
 - Python 3.7+
 - PyTorch
-- Other dependencies (specified in `requirements.txt`)
+
 
 Clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/your-username/satellite-to-map-pix2pix.git
+git clone https://github.com/Takshi18/satellite-to-map-pix2pix.git
 cd satellite-to-map-pix2pix
-pip install -r requirements.txt
+
 
